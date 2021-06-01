@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AudiotecaApp</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Audioteca</string>
+    <string name="nav_header_subtitle">audioteca@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_quem">Quem Somos</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sair">Sair</string>
+</resources>
